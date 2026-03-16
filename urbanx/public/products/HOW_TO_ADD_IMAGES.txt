@@ -1,0 +1,42 @@
+====================================
+  UrbanX - Product Images Guide
+====================================
+
+IS FOLDER MEIN APNI PRODUCT IMAGES DAALO
+Supported formats: .jpg, .jpeg, .png, .webp
+
+---------- STEP BY STEP ----------
+
+1. Apni product image is folder mein daalo
+   e.g.: hoodie.jpg, blazer.png
+
+2. Admin Panel mein Product Add/Edit karo
+
+3. "Product Image" field mein type karo:
+   /products/hoodie.jpg
+
+4. Save karo → Image website pe dikhegi!
+
+---------- FILE NAMES ----------
+hoodie.png       ✅ already available (sample)
+joggers.png      ✅ already available (sample)
+blazer.png       ✅ already available (sample)
+bomber.png       ✅ already available (sample)
+chinos.png       ✅ already available (sample)
+sporttee.png     ✅ already available (sample)
+
+---------- TIPS ----------
+• Image size: 800x800px ya 1:1 ratio best hai
+• File size: 200KB se kam rakhna (fast loading)
+• Name mein space mat rakhna: "urban hoodie.jpg" ❌
+                               "urban_hoodie.jpg" ✅
+
+---------- EXTERNAL URL BHI CHAL SAKTA HAI ----------
+For production (deployed site), use ImgBB (free):
+1. https://imgbb.com pe jaao
+2. Image upload karo
+3. "Direct link" copy karo
+4. Admin panel mein paste karo
+   e.g.: https://i.ibb.co/xyz123/hoodie.jpg
+
+====================================

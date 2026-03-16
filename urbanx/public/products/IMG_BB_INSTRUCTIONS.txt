@@ -1,0 +1,21 @@
+🚀 URBANX - DEPLOYED IMAGE GUIDE (VERCEL)
+
+FOR GLOBAL VISIBILITY (AFTER DEPLOY):
+1. Go https://imgbb.com/
+2. Upload product photo 
+3. Copy DIRECT LINK (not display/embed)
+   Example: https://i.ibb.co/abc123/hoodie.jpg
+
+4. Admin Panel → Add Product
+   Paste ImgBB URL in 'Product Image' field
+   Save → Image dikhega everywhere!
+
+✅ FREE | UNLIMITED | GLOBAL CDN | FAST
+
+LOCAL DEV (npm run dev):
+Use /products/your-image.jpg
+
+SUPABASE (Advanced):
+Setup env → auto-upload works
+
+Questions? Admin dashboard mein test karo!
